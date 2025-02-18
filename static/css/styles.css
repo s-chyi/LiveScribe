@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('../background.png');
+    background-size: cover;
+    background-position: center;
+    color: #000;
+    height: 100vh;
+    overflow: hidden;
+}
+
+#overlay {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+#content {
+    position: absolute;
+    left: 2.5%;
+    right: 2.5%;
+    top: 2.5%;
+    bottom: 2.5%;
+    background-color: rgba(255, 255, 255, 0.5);
+    padding: 20px;
+    font-size: 140px;
+    font-weight: bold;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-start;
+    border-radius: 10px;
+    overflow-y: auto;
+}
+
+#content.zh {
+    font-family: "KaiTi", "楷体", "SimKai", "STKaiti", "Microsoft YaHei", sans-serif;
+}
+
+#content.en {
+    font-family: "Times New Roman", Times, serif;
+}

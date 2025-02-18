@@ -5,10 +5,7 @@
 LiveScribe: Real-time speech transcription and translation that bridges language gaps. Get instant, accurate captions in multiple languages via a web interface. Powered by Azure, Google Cloud, and DeepL. Perfect for meetings, live streams, and more. Open source and ready for your contributions!
 
 ## Demo
-<div style="padding:56.25% 0 0 0;position:relative;">
-    <iframe src="https://player.vimeo.com/video/1057743327?badge=0&autopause=1&player_id=0&app_id=58479" frameborder="0" allow="fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="LiveScribe Demo"></iframe>
-</div>
-<p>Click the video above to see a demonstration of LiveScribe.</p>
+[LiveScribe Demo](https://vimeo.com/1057743327?share=copy)
 
 ## Table of Contents
 
